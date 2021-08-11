@@ -6,7 +6,8 @@ de résoudre un problème récurrent dans notre code.
 
 Type de pattern design => 
 
-* Les Patrons de création fournissent des mécanismes de création d’objets, ce qui augmente la flexibilité et la réutilisation
+* Les Patrons de création :
+     fournissent des mécanismes de création d’objets, ce qui augmente la flexibilité et la réutilisation
 du code.
 
 * Les Patrons structurels expliquent comment assembler des objets et des classes en de plus grandes structures, tout en les
