@@ -10,7 +10,8 @@ Le Singleton est un patron de conception qui garantit à l'instance d'une classe
 Elle fournit un point d'accès global à cette unique instance.
 
 CAS D'UTILISATION: Utilisez le singleton lorsque l’une de vos classes ne doit fournir qu’une seule instance à tous ses clients. Par exemple, une base
-de données partagée entre toutes les parties d’un programme.
+de données partagée entre toutes les parties d’un programme. Utilisez le singleton lorsque vous voulez un contrôle absolu
+sur vos variables globales.
 
 
 # Prototype (Alias: Clone, Prototype)
