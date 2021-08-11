@@ -14,7 +14,7 @@ Elle fournit un point d'accès global à cette unique instance.
 
 Prototype est un patron de conception qui crée de nouveaux objets à partir d’objets existants sans rendre le code dépendant de leur classe.
 
-CAS D'UILISATION : Utilisez le prototype si vous ne voulez pas que votre code dépende des classes concrètes des objets que vous clonez.
+CAS D'UTILISATION : Utilisez le prototype si vous ne voulez pas que votre code dépende des classes concrètes des objets que vous clonez.
 
 
 # Builder (Alias: Monteur)
