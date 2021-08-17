@@ -4,7 +4,7 @@ Un répertoire avec un file owner et un groupe lit, écrit, et exécute les perm
 Les permissions spéciaux ajoute un quatrième niveau d'accès s'ajoutant déja aux utilisateur, group et autres
 
 => SUID (Set owner User ID up on execution) est un type de permission spécial assigné à un fichier (script ou application) sous linux. Il permet d'avoir les permissions du file owner
-plutôt que les permissions de la personne qui a lancer le programme. Quand le SUID est activé sur un exécutable, l'utilisateur qui éxecute le fichier dispose des 
+plutôt que les permissions de la personne qui a lancer le programme. Quand le SUID est activé sur un exécutable, l'utilisateur qui exécute le fichier dispose des 
 même droits que le propriétaire.
 
 ```valeur octale : 4000, valeur symbolique : s ```
