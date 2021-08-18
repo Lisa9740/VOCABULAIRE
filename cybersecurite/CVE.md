@@ -31,7 +31,7 @@ Les identifiants CVE sont attribués aux failles qui répondent à un ensemble d
 
 ## Présentation d'un CVE 
 
-Dans le cadre de mon alternance, en entreprise, j'ai dû faire face à une vulnérabilité sur un CMS que nous utilisions : Magento. Le CVE CERTFR-2021-AVI-609 mettait en lumière les risques de sécurités
+Dans le cadre de mon alternance, en entreprise, j'ai dû faire face à une vulnérabilité sur un CMS que nous utilisions : Magento. Le CVE CERTFR-2021-AVI-609 (	11 août 2021 ) mettait en lumière les risques de sécurités
 sur une version de Magento que nous utilisions. Ces risques sont:
 
 *  Exécution de code arbitraire à distance
